@@ -32,7 +32,7 @@ consecutivos (001.jpg , 002.jpg , 003.jpg ).
  - Monitorea tareas (ej. copias de seguridad, generación de reportes).
  - Envía un correo al finalizar, indicando éxito o error.
  - Ideal para procesos largos que no requieren supervisión constante.
+
 Modo de uso:
 Ejecutar el archivo python.
-Seleccionar si se desea ejecutar desde la terminal o con la ventana.
 Seleccionar las opciones de tareas a realizar.
